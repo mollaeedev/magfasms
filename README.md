@@ -1,2 +1,2 @@
 # magfasms
-a class of sample codes to send sms from Magfa SMS service
+A php class of sample codes to send sms by Magfa sms service that released by Magfa.
